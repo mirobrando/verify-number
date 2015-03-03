@@ -1,0 +1,22 @@
+{
+    "name": "mirolabs/verify-numbers",
+    "description": "verify numbers polish nip, regon",
+    "require-dev": {
+        "phpunit/phpunit": "~4.7@dev",
+        "mockery/mockery": "0.9.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mirobrando",
+            "email": "mirobrando@wp.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "mirolabs\\verify\\number\\": "src/"
+      }
+    }
+}
