@@ -1,0 +1,5 @@
+verify number 
+=============
+
+* REGON
+* NIP
